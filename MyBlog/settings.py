@@ -153,7 +153,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 EMAIL_HOST = 'smtp.163.com'
 EMAIL_PORT = 25
 EMAIL_HOST_USER = 'cy_wang_china@163.com'
-EMAIL_HOST_PASSWORD = 'IMYSXZJBVSGSGISE'
+EMAIL_HOST_PASSWORD = ''
 DEFAULT_FROM_EMAIL = 'cy_wang_china@163.com'
 EMAIL_FROM = ''
 
